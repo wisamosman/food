@@ -1,0 +1,96 @@
+.q1{
+    background-image: url(https://livedemo00.template-help.com/wt_prod-10492/images/bg-image-1.jpg);
+    background-size: cover;
+}
+.q2{
+    font-family: 'Kalam', cursive;
+font-family: 'Poppins', sans-serif;
+    color: #76AA7B;
+    font-size: 22px;
+    font-weight: 300;
+}
+.q3{
+    font-size: 41px;
+    font-weight: 500;
+}
+.q4{
+    text-decoration: none;
+    color: black;
+    font-weight: 700;
+}
+.q5{
+    background-color: #E9DA5D;
+    display: inline;
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+.w1{
+    font-size: 26px;
+    margin-left: 75px;
+    font-weight: 700;
+}
+.w2 :hover {
+margin: 15px;
+}
+.e1{
+    background-color: #F5F5F5;
+}
+.e2{
+    color: #76AA7B;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 35px;
+}
+.e3{
+    font-weight: 700;
+    font-size: 40px;
+}
+.t1{
+    font-size: 24px;
+}
+.t2{
+    margin-left: -30px;
+}
+.t4{
+    background-color: white;
+    display: inline;
+    padding: 30px 15px 30px 15px;
+    border-radius: 50px;
+    border: 2px solid #76AA7B;
+}
+.t7{
+    margin-top: 30px;
+}
+.h1{
+    #FFFFFF
+}
+.h2{
+    color: #76AA7B;
+    font-size: 25px;
+}
+.h3{
+    font-size: 40px;
+}
+.h5{
+    margin-left: -122px;
+    width: 810px;
+}
+.u1{
+    background-color: #F5F5F5;
+}
+.v1{
+    color: #76AA7B;
+    font-size: 25px;
+}
+.v3{
+    font-size: 40px;
+}
+.accordion-button{
+    padding: 40px 20px 40px 0px;
+    font-weight: 700;
+    font-size: 18px;
+    background-color: #F5F5F5;
+}
+.s1{
+
+}
